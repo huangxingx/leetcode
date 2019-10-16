@@ -5,5 +5,4 @@ import (
 )
 
 func TestAddTwoNumbers(t *testing.T) {
-	addTwoNumbers()
 }
