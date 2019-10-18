@@ -1,5 +1,6 @@
 package fib
 
+// 引入缓存
 var sMap = make(map[int]int)
 
 func fib(N int) int {
