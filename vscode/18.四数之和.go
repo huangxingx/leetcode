@@ -1,3 +1,5 @@
+package vscode
+
 /*
  * @lc app=leetcode.cn id=18 lang=golang
  *
@@ -6,7 +8,7 @@
 
 // @lc code=start
 func fourSum(nums []int, target int) [][]int {
-
+	return nil
 }
-// @lc code=end
 
+// @lc code=end

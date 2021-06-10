@@ -3,6 +3,7 @@
  *
  * [1] 两数之和
  */
+package vscode
 
 // @lc code=start
 func twoSum(nums []int, target int) []int {
@@ -21,4 +22,3 @@ func twoSum(nums []int, target int) []int {
 }
 
 // @lc code=end
-
